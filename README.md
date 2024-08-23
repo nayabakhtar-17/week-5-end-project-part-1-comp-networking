@@ -8,10 +8,10 @@ This file documents the design, implementation, and configuration of a small-to-
 
 Network Design
 
-The network topology diagram is shown below:
-For topology diagram you can go to issues tab 
+For detailed video of project visit my LinkedIn post ➡️
+https://www.linkedin.com/posts/nayab-akhtar-bb3026294_cosmicode-cosmicodetech-cosmicodetechnology-activity-7232719085279604739-IFCv?utm_source=share&utm_medium=member_android
 
-[Insert network topology diagram]
+For topology diagram you can go to issues tab 
 
 Implementation
 
